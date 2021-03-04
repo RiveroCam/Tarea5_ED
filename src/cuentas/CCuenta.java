@@ -4,7 +4,7 @@ package cuentas;
 
 public class CCuenta {
     
-    private String nombre;
+    private String Nombre;
     private String cuenta;
     private double saldo;
     private double tipoInterés;
